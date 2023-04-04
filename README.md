@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-I am himanshu singh working in a company named optum as a software engineer and working hard to prove myself that i can do better here.
-
-I am himanshu singh working in a company named optum as a software engineer and working hard to prove myself that i can do better here.
+1. index.html
